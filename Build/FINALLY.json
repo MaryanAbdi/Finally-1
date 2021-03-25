@@ -1,0 +1,17 @@
+{
+"companyName": "Maryan Abdirahman",
+"productName": "Spacial immersion",
+"productVersion": "15.0",
+"dataUrl": "FINALLY.data.unityweb",
+"wasmCodeUrl": "FINALLY.wasm",
+"wasmFrameworkUrl": "FINALLY.wasm.framework.unityweb",
+"wasmSymbolsUrl": "FINALLY.wasm.symbols.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#8099BE",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.22f1"
+}
